@@ -1,3 +1,3 @@
 # finitestatemachine
 
-<img src="trafflight.png">
+<img src="traflight.png">
